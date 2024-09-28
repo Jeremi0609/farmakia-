@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: beige;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+    object-fit: contain;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+}
+
